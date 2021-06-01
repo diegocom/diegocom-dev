@@ -53,7 +53,7 @@ show_timeline_card: true
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://example.com/
+cv_download_link: https://drive.google.com/uc?export=download&id=1oTymbvi9ALERP_iHvoSByi3Dzyyyo1ji
 
 # PROJECTS SECTION
 # show_projects_card:
@@ -86,7 +86,7 @@ contact_description: Get in touch with me! For every question, collaboration or 
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: diegocom/diegocom-dev
+repository: diegocom.github.io
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
