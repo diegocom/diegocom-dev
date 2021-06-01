@@ -7,7 +7,7 @@ title: Diego Comencini
 description: Personal portfolio
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
-baseurl: "/diegocom-dev"
+baseurl: ""
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
@@ -86,7 +86,7 @@ contact_description: Get in touch with me! For every question, collaboration or 
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: diegocom/diegocom-dev
+repository: diegocom.github.io
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
