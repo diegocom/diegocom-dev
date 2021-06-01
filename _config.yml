@@ -86,7 +86,7 @@ contact_description: Get in touch with me! For every question, collaboration or 
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: diegocom.github.io
+repository: diegocom/diegocom-dev
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
