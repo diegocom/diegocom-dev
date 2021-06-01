@@ -17,45 +17,33 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
+- title: Università degli Studi di Verona
   title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
-  tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
-  timeline-side: right
-
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
+  date: Apr 2020 - Present
+  subtitle: Research Fellow
   tags:
     - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
+    - tag: Firebase
+    - tag: Watermarking
+    - tag: Mobile Development
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+- title: Università degli Studi di Verona
+  title-url: https://www.di.univr.it
+  date: 2017 - 2020
+  subtitle: Master's degree in computer science and engineering
+  tags:
+    - tag: CyberSecurity
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
-  tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+- title: Università degli Studi di Verona
+  title-url: https://www.di.univr.it
+  date: 2014 - 2017
+  subtitle: Bachelor's degree in computer science
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+- title: Itis Galileo Ferraris
+  title-url: http://www.ferrarisfermi.it/pvw/app/VRIT0006/pvw_sito.php
+  date: 2009 - 2014
+  subtitle: Electrotechnics and Eletronics
   timeline-side: left
