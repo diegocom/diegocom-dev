@@ -14,17 +14,17 @@ baseurl: ""
 username: Diego Comencini
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Developer
+typing_text: Security Engineer | AppSec & DevSecOps
 # email: Your E-Mail address for the email button.
 email: d.comencini@gmail.com
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
 github_username: diegocom
-# codepen_username: exampleUser
+codepen_username: ""
 dev_username: diegocom
 linkedin_username: diegocomencini
-# twitter_username: exampleUser
+twitter_username: ""
 
 # ABOUT ME SECTION
 # show_aboutme_card:
@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: 25 years old, I have always been a good self-taught person, especially in the IT field. Passionate from many years I have developed autonomously a lot of horizontal skills and I have finished my studies with a master's degree in computer science and engineering, with a specialization in CyberSecurity (I love it).
+about_me_description: Security Engineer specialized in Application Security and DevSecOps. I work on secure SDLC (shift-left), SAST/DAST/SCA delivery and triage, threat analysis, remediation support, and AppSec process design with technical and executive reporting.
 
 # SKILLS SECTION
 # show_skills_card:
@@ -53,7 +53,8 @@ show_timeline_card: true
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://drive.google.com/uc?export=download&id=1oTymbvi9ALERP_iHvoSByi3Dzyyyo1ji
+cv_download_link: ""
+timeline_certifications: "CISSP (2025), CSSLP (2024), SSCP (2023), HCL AppScan on Cloud Level 1 (2022)"
 
 # PROJECTS SECTION
 # show_projects_card:
@@ -81,7 +82,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: Get in touch with me! For every question, collaboration or curiosity write me an email.
+contact_description: "Let's connect for AppSec and DevSecOps collaborations. CV and references available on request."
 
 # GITHUB-METADATA
 # Set this to your forked repository

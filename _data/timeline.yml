@@ -17,33 +17,43 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: Università degli Studi di Verona
-  title-url: https://example.com/
-  date: Apr 2020 - Present
-  subtitle: Research Fellow
+- title: NTT Data Italia
+  title-url: https://it.nttdata.com/
+  date: Jul 2021 - Present
+  subtitle: Expert Cybersecurity Technical Assessor (Application Security / DevSecOps)
   tags:
-    - tag: Flutter
-    - tag: Firebase
-    - tag: Watermarking
-    - tag: Mobile Development
+    - tag: AppSec
+    - tag: DevSecOps
+    - tag: Secure SDLC
+    - tag: SAST / DAST / SCA
   timeline-side: right
 
 - title: Università degli Studi di Verona
   title-url: https://www.di.univr.it
-  date: 2017 - 2020
-  subtitle: Master's degree in computer science and engineering
+  date: Apr 2020 - Jul 2021
+  subtitle: Research Fellow - cloud architecture for anti-counterfeiting and tracking
   tags:
-    - tag: CyberSecurity
+    - tag: Flutter
+    - tag: Google Cloud
+    - tag: Vue.js
+  timeline-side: left
+
+- title: Università degli Studi di Verona
+  title-url: https://www.di.univr.it
+  date: 2017 - 2020
+  subtitle: M.Sc. Computer Engineering and Computer Science (Cybersecurity), 110/110 cum laude
+  tags:
+    - tag: Cybersecurity
   timeline-side: left
 
 - title: Università degli Studi di Verona
   title-url: https://www.di.univr.it
   date: 2014 - 2017
-  subtitle: Bachelor's degree in computer science
+  subtitle: B.Sc. Computer Science, 110/110
   timeline-side: right
 
-- title: Itis Galileo Ferraris
+- title: ITIS Galileo Ferraris
   title-url: http://www.ferrarisfermi.it/pvw/app/VRIT0006/pvw_sito.php
   date: 2009 - 2014
-  subtitle: Electrotechnics and Eletronics
+  subtitle: Technical High School Diploma - Electrical Engineering Technician, 100/100
   timeline-side: left

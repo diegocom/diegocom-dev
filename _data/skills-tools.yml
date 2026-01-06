@@ -5,17 +5,23 @@
 # - name: Git
 #   weight: 5
 
-- name: Git
+- name: OpenText Application Security (Fortify)
   weight: 4
 
-- name: Bash
+- name: Sonatype Lifecycle
+  weight: 4
+
+- name: HCL AppScan
+  weight: 4
+
+- name: Jenkins
   weight: 3
 
-- name: Chrome DevTools
-  weight: 4
+- name: ServiceNow
+  weight: 3
 
-- name: VS Code
-  weight: 4
+- name: Burp Suite
+  weight: 3
 
-- name: Postman
+- name: Wireshark
   weight: 3

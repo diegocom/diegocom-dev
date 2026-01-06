@@ -1,6 +1,6 @@
 var gulp = require('gulp');
 var browserSync = require('browser-sync');
-var sass = require('gulp-sass');
+var sass = require('gulp-sass')(require('sass'));
 var cssnano = require('gulp-cssnano');
 var prefix = require('gulp-autoprefixer');
 var concat = require('gulp-concat');
@@ -79,22 +79,19 @@ function browserSyncReload(done) {
  * Build Jekyll site
  */
 function jekyll(done) {
-  return cp
-    .spawn(
-      'bundle',
-      [
-        'exec',
-        'jekyll',
-        'build',
-        '--incremental',
-        '--config=_config.yml,_config_dev.yml'
-      ],
-      {
-        stdio: 'inherit'
-      }
-    )
-    .on('close', done);
+  return cp.spawn(
+    'bundle',
+    [
+      'exec',
+      'jekyll',
+      'build',
+      '--incremental',
+      '--config=_config.yml,_config_dev.yml'
+    ],
+    { stdio: 'inherit', shell: true }   // 👈 aggiungi questo
+  ).on('close', done);
 }
+
 
 /**
  * Watch source files for changes & recompile

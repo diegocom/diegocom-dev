@@ -14,13 +14,15 @@
 #     - tag: Node
 
 - name: FUT Scoreboard
-  descr: "A cross-platform app developed (in my free time) for FIFA players, with a lot of stuff inside that. Available for iOS and Android."
+  descr: "Cross-platform mobile app for FIFA players (2020-2025) with Google Cloud/Firebase back-end, MVVM architecture, auth, serverless functions, and reactive data flows. 250k users managed across iOS and Android."
   demo: https://futscore.app/
   tags:
     - tag: Flutter
-    - tag: Android
-    - tag: iOS
+    - tag: Google Cloud
     - tag: Firebase
+    - tag: MVVM
+    - tag: iOS
+    - tag: Android
 
 # - name: project Y
 #   descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
