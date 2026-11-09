@@ -60,7 +60,6 @@ nav a:last-child { color: var(--white); }
 .profile-meta { margin-top: .75rem; color: var(--on-ink); font-size: .875rem; font-weight: 650; }
 .hero-figure { margin: 0; }
 .hero-figure img { display: block; width: 100%; height: auto; }
-.hero-figure figcaption { margin-inline: 3.85%; color: var(--on-ink); font-size: .875rem; }
 .contact-actions, .store-links { display: flex; flex-wrap: wrap; align-items: center; gap: .25rem 1rem; }
 .hero .contact-actions { margin-top: 1.05rem; }
 .contact-actions a { font-size: .9375rem; }

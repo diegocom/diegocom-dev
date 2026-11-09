@@ -11,7 +11,7 @@
   <circle cx="260" cy="210" r="133" stroke="#8393b0" stroke-opacity=".31" stroke-dasharray="2 5"/>
   <circle cx="260" cy="210" r="79" stroke="#8393b0" stroke-opacity=".39"/>
   <path d="M45 210h430M260 45v330" stroke="#8393b0" stroke-opacity=".45" stroke-dasharray="3 7"/>
-  <g transform="translate(0 420) scale(1 -1)" stroke="#8199c0" stroke-width="1.2">
+  <g transform="translate(0 420) scale(1 -1)" stroke="#e8b18d" stroke-width="1.2">
     <use href="#trace" transform="translate(0 -34)" opacity=".25"/>
     <use href="#trace" transform="translate(0 -23)" opacity=".48"/>
     <use href="#trace" transform="translate(0 -12)" opacity=".75"/>
@@ -20,7 +20,7 @@
     <use href="#trace" transform="translate(0 23)" opacity=".48"/>
     <use href="#trace" transform="translate(0 34)" opacity=".25"/>
     <circle cx="61" cy="282" r="5" fill="#1b2638" stroke-width="2"/>
-    <circle cx="463" cy="95" r="5" fill="#8199c0" stroke-width="2"/>
+    <circle cx="463" cy="95" r="5" fill="#e8b18d" stroke-width="2"/>
   </g>
   <g stroke="#9dbbff" stroke-width="1.2">
     <use href="#trace" transform="translate(0 -34)" opacity=".28"/>
@@ -35,4 +35,8 @@
   <circle cx="463" cy="95" r="6" fill="#c3d5ff"/>
   <rect x="249" y="199" width="22" height="22" rx="1" fill="#1b2638" stroke="#c3d5ff" stroke-width="1.5" transform="rotate(45 260 210)"/>
   <circle cx="260" cy="210" r="3" fill="#c3d5ff"/>
+  <g font-family="system-ui, sans-serif" font-size="14" font-weight="600">
+    <text x="61" y="94" fill="#e8b18d">AI</text>
+    <text x="61" y="238" fill="#9dbbff">Security</text>
+  </g>
 </svg>
