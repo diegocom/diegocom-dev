@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 420" fill="none">
+  <defs>
+    <pattern id="grid" x="20" y="20" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M0 30V0h30" stroke="#a6ceba" stroke-opacity=".13"/>
+    </pattern>
+    <path id="trace" d="M61 282h41c69 0 100-43 135-77l68-68c29-29 58-42 109-42h49"/>
+    <linearGradient id="green" x1="62" y1="270" x2="465" y2="95" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#709a89"/><stop offset=".58" stop-color="#a5c98c"/><stop offset="1" stop-color="#d9f487"/>
+    </linearGradient>
+  </defs>
+  <rect x="20" y="20" width="480" height="380" fill="#142e29"/>
+  <rect x="20" y="20" width="480" height="380" fill="url(#grid)" stroke="#a6ceba" stroke-opacity=".2"/>
+  <path d="M20 46V20h26m428 0h26v26m0 328v26h-26m-428 0H20v-26" stroke="#9fc3b3" stroke-width="1.5"/>
+  <circle cx="260" cy="210" r="133" stroke="#92ac9e" stroke-opacity=".31" stroke-dasharray="2 5"/>
+  <circle cx="260" cy="210" r="79" stroke="#92ac9e" stroke-opacity=".39"/>
+  <path d="M45 210h430M260 45v330" stroke="#92ac9e" stroke-opacity=".45" stroke-dasharray="3 7"/>
+  <g transform="translate(0 420) scale(1 -1)" stroke="#8db9a7" stroke-width="1.2">
+    <use href="#trace" transform="translate(0 -34)" opacity=".25"/>
+    <use href="#trace" transform="translate(0 -23)" opacity=".48"/>
+    <use href="#trace" transform="translate(0 -12)" opacity=".75"/>
+    <use href="#trace" stroke-width="2.7"/>
+    <use href="#trace" transform="translate(0 12)" opacity=".75"/>
+    <use href="#trace" transform="translate(0 23)" opacity=".48"/>
+    <use href="#trace" transform="translate(0 34)" opacity=".25"/>
+    <circle cx="61" cy="282" r="5" fill="#142e29" stroke-width="2"/>
+    <circle cx="463" cy="95" r="5" fill="#8db9a7" stroke-width="2"/>
+  </g>
+  <g stroke="url(#green)" stroke-width="1.2">
+    <use href="#trace" transform="translate(0 -34)" opacity=".28"/>
+    <use href="#trace" transform="translate(0 -23)" opacity=".5"/>
+    <use href="#trace" transform="translate(0 -12)" opacity=".76"/>
+    <use href="#trace" stroke-width="3"/>
+    <use href="#trace" transform="translate(0 12)" opacity=".76"/>
+    <use href="#trace" transform="translate(0 23)" opacity=".5"/>
+    <use href="#trace" transform="translate(0 34)" opacity=".28"/>
+  </g>
+  <circle cx="61" cy="282" r="5" fill="#142e29" stroke="#a5c98c" stroke-width="2"/>
+  <circle cx="463" cy="95" r="6" fill="#d9f487"/>
+  <rect x="249" y="199" width="22" height="22" rx="1" fill="#142e29" stroke="#d9f487" stroke-width="1.5" transform="rotate(45 260 210)"/>
+  <circle cx="260" cy="210" r="3" fill="#d9f487"/>
+</svg>
