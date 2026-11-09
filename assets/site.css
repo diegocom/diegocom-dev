@@ -58,7 +58,9 @@ nav a:last-child { color: var(--white); }
 .profile-role { margin-top: 1.05rem; font-size: clamp(1.05rem, 1.9vw, 1.38rem); font-weight: 750; line-height: 1.35; }
 .profile-scope { max-width: 45ch; margin-top: .6rem; color: var(--on-ink); font-size: clamp(1rem, 1.35vw, 1.125rem); }
 .profile-meta { margin-top: .75rem; color: var(--on-ink); font-size: .875rem; font-weight: 650; }
-.hero-figure { display: block; width: 100%; height: auto; }
+.hero-figure { margin: 0; }
+.hero-figure img { display: block; width: 100%; height: auto; }
+.hero-figure figcaption { margin-inline: 3.85%; color: var(--on-ink); font-size: .875rem; }
 .contact-actions, .store-links { display: flex; flex-wrap: wrap; align-items: center; gap: .25rem 1rem; }
 .hero .contact-actions { margin-top: 1.05rem; }
 .contact-actions a { font-size: .9375rem; }
@@ -69,7 +71,7 @@ nav a:last-child { color: var(--white); }
 .detail-section { padding-block: clamp(2.4rem, 5.4vw, 4.6rem); }
 .detail-section + .detail-section { border-top: 1px solid var(--rule); }
 .section-head { display: grid; grid-template-columns: minmax(0, .85fr) minmax(0, 1.45fr); align-items: start; gap: .65rem 2rem; margin-bottom: 1.4rem; }
-.section-head p, .record p, .project p, .certs, .ai-example { max-width: 70ch; color: var(--muted); }
+.section-head p, .record p, .project p, .certs { max-width: 70ch; color: var(--muted); }
 .records { border-bottom: 1px solid var(--rule); }
 .record { display: grid; grid-template-columns: minmax(0, .85fr) minmax(0, 1.45fr); align-items: baseline; gap: .35rem 2rem; padding-block: 1rem; border-top: 1px solid var(--rule); }
 .record h3 span { display: block; margin-top: .25rem; color: var(--muted); font-size: .85rem; font-weight: 650; letter-spacing: normal; }

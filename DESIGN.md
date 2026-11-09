@@ -58,7 +58,7 @@ Superfici piatte, spaziatura e filetti separano i contenuti.
 
 ## Components
 
-- Il monogramma e il disegno di traiettorie riprendono gli asset della prima bozza nella palette attuale. Il disegno è decorativo.
+- Il monogramma e il disegno di traiettorie riprendono gli asset della prima bozza nella palette attuale. La didascalia spiega l’incrocio tra sicurezza applicativa e AI.
 - I casi AppSec sono visibili nella sezione Esperienza AppSec e hanno ancore individuali. Certificazioni e contatto seguono i casi.
 - FUT Scoreboard è presentato come progetto condiviso con il contributo di Diego al passato.
 - I link nativi usano etichette visibili e focus distinguibile.
